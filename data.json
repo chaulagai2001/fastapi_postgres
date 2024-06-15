@@ -1,0 +1,13 @@
+{
+    "question_text": "string",
+    "choices": [
+      {
+        "choice_text": "flask",
+        "is_correct": true
+      },
+      {
+        "choice_text": "fastapi",
+        "is_correct": false
+      }
+    ]
+  }
